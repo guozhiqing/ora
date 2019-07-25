@@ -1,0 +1,12 @@
+.box{
+    width: 600px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: lightsalmon;
+}
+
+/* .box p{
+    position: absolute;
+    top: 400px;
+    left: 180px;
+} */
