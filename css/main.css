@@ -3,10 +3,11 @@
     height: 400px;
     margin: 100px auto;
     background-color: lightsalmon;
+    position: relative;
 }
 
-/* .box p{
+.box p{
     position: absolute;
     top: 400px;
     left: 180px;
-} */
+}
